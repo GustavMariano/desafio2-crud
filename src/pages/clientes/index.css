@@ -1,0 +1,25 @@
+.modal-dialog {
+    max-width: 780px;
+}
+
+.button-edit {
+    background-color: var(--cor-primaria);
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.button-delete {
+    background-color: #ce0000;
+}
+
+.button-delete:hover {
+    background-color: #9b0000;
+  }
+
+.col-sm-12 {
+    margin-top: 25px;
+}
+
+.modal-content {
+    margin-top: 30vh;
+}
